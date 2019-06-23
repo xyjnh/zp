@@ -1,0 +1,294 @@
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	font-family: Alire;
+
+
+}
+#zp-1 .top-bar{
+	height: 50px;
+	/*border: 1px solid #000;*/
+	line-height: 49px;
+	background: #efefef
+}
+.glyphicon-earphone {
+	color: green;
+}
+.glyphicon-envelope{
+	color: green;
+}
+#zp-1 .top-bar3 .btn{
+	margin-top:-3px;
+}
+#zp-1 .narbar-zp{
+	background: #0f244c;
+	margin-bottom:0;
+}
+.navbar-static-top {
+    border-width: 0 0 0px;
+}
+#zp-1 .narbar-zp .navbar-brand{
+	height: 80px;
+	padding: 20px 15px;
+}
+#zp-1 .narbar-zp .navbar-nav a{
+	height: 80px;
+	line-height: 50px;
+}
+#zp-1 .narbar-zp .navbar-nav li{
+	padding-left: 20px;
+}
+#zp-1 .narbar-zp .navbar-nav li.active a,
+#zp-1 .narbar-zp .navbar-nav li a:hover{
+	background-color: transparent;
+	border-bottom: 2px solid #37b721;
+	color: #37b721;
+	-webkit-transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.3s;
+}
+.navbar-toggle {
+    margin-top: 21px;
+}
+.swiper-container{
+	width: 100%;
+	height: 600px;
+}
+.swiper-slide img{
+	width: 100%;
+	height: 600px;
+}
+.our-zp{
+	margin-top:80px;
+
+}
+#zp-3 .caption .txt{
+	font-size: 16px;
+	font-weight:bold
+}
+#zp-3 .caption span{
+	 font-size: 15px;
+  color: #37b721;
+}
+#zp-3 .caption .xi{
+	margin-top:-30px;
+}
+#zp-3 .caption .xi .glyphicon-star{
+	color: pink
+}
+#zp-3 .thumbnail{
+	overflow:hidden
+}
+#zp-3 .thumbnail img:hover{
+	cursor: pointer;  
+    transition: all 1s;  
+ 	transform: scale(1.1);  
+} 
+.product{
+	margin-top:50px;
+}
+ .record{
+	width: 100%;
+	height: 400px;
+	background:url(imgs/bj.jpg);
+	margin-top:50px;
+}
+#zp-4 .count-down-titile{
+	
+  font-size: 30px;
+  text-align: center;
+  font-weight: 600;
+  color: #ffffff;
+  margin-top: 60px;
+}
+#zp-4 .count-down-titile h2 span.color-one {
+  color: #f15b5c;
+}
+#zp-4 .count-down-titile h2 span.color-two {
+  color: #37b721;
+}
+#zp-4 .count-timer .time-wrapper p {
+  color: #ffffff;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+#zp-5{
+	background:#efefef;
+	padding: 30px 0;
+}
+#zp-5 .nav{
+	font-size: 18px;
+}
+#zp-5 .nav a{
+	color: #999;
+
+}
+#zp-5 .nav li.active a{
+	border: none;
+	background: transparent;
+	border-bottom: 2px solid pink;
+	color: #000;
+}
+#zp-5 .tab-content{
+	padding: 10px;
+}
+#zp-51-1 .media-body .xi{
+	margin-top:80px;
+}
+#zp-51-1 .media-body .xi .glyphicon-star{
+	color: pink
+}
+#zp-51-1 .media-left img{
+	width: 150px;
+	height: 150px;
+}
+#zp-6{
+	background: #303133;
+  	padding-bottom: 30px;
+}
+#zp-6 .single-footer .footer-left .footer-logo p {
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 25px;
+  padding-bottom: 15px;
+}
+#zp-6 .single-footer .footer-title h3 {
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+  padding: 20px 0;
+}
+#zp-6 .single-footer ul li {
+  padding-bottom: 10px;
+}
+#zp-6 .single-footer  ul li a {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 0;
+  text-decoration: none;
+  -webkit-transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.3s;
+}
+#zp-6 .single-footer ul li a:hover {
+  color: #f15b5c;
+}
+#zp-6 .single-footer .footer-left .footer-contact li {
+  color: #ffffff;
+  display: block;
+  padding: 8px 0;
+}
+#zp-6 .single-footer .single-recent-post .recent-post li {
+  display: block;
+  margin-bottom: 20px;
+  width: 100%;
+}
+#zp-6  .single-footer .single-recent-post .recent-post li a .post-thum {
+  float: left;
+  margin-right: 15px;
+}
+#zp-6 .single-footer .single-recent-post .recent-post li a .post-content p {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 0;
+  -webkit-transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.3s;
+}
+#zp-6 .single-footer .single-recent-post .recent-post li a .post-content p:hover {
+  color: #f15b5c;
+}
+#zp-6 .single-footer .single-recent-post .recent-post li a .post-content span {
+  color: #f15b5c;
+  font-size: 12px;
+}
+#zp-6 .single-footer .footer-contact-form form .footer-form-element {
+  position: relative;
+}
+#zp-6 .single-footer .footer-contact-form form .footer-form-element li input {
+  background: #444648 none repeat scroll 0 0;
+  border: medium none;
+  height: 40px;
+  width: 100%;
+  border-radius: 3px;
+  padding: 0 10px;
+  color: #c3c3c3;
+  -webkit-transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.3s;
+  font-size: 13px;
+}
+#zp-6 .single-footer .footer-contact-form form .footer-form-element li input:hover {
+  background: #7a7c7d;
+}
+#zp-6 .single-footer .footer-contact-form form .footer-form-element li textarea {
+  background: #444648 none repeat scroll 0 0;
+  border: medium none;
+  height: 120px;
+  width: 100%;
+  border-radius: 3px;
+  color: #ffffff;
+  padding-left: 10px;
+  padding-top: 8px;
+  -webkit-transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.3s;
+  font-size: 13px;
+}
+#zp-6 .single-footer .footer-contact-form form .footer-form-element li textarea:hover {
+  background: #7a7c7d;
+}
+#zp-6 .single-footer .footer-contact-form form .footer-form-element .text_area button {
+  bottom: 7px;
+  right: 0;
+  background: #37b721 none repeat scroll 0 0;
+  border: medium none;
+  color: #ffffff;
+  background: #f15b5c;
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  height: 36px;
+  display: block;
+  padding: 0px 15px;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+  position: absolute;
+  cursor: pointer;
+  bottom:25px;
+}
+#zp-6 .single-footer .footer-contact-form form .footer-form-element .text_area button:hover {
+  background: #37b721;
+}
+#zp-6 .single-footer .footer-social-media .social-footer-title h3 {
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+}
+#zp-6 .single-footer .footer-social-media .footer-social-link li {
+  display: inline-block;
+}
+#zp-6 .single-footer .footer-social-media .footer-social-link li img{
+	width: 20px;
+	height: 20px;
+}
+#zp-6 .single-footer .footer-social-media .footer-social-link li a {
+  display: block;
+  padding-left: 0;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 15px;
+  font-weight: 400;
+  color: #ffffff;
+  -webkit-transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.3s;
+}
+#zp-6 .single-footer .footer-social-media .footer-social-link li img:hover{
+	cursor: pointer;  
+    transition: all 1s;  
+ 	transform: scale(1.5); 
+}
+#zp-6 .footer-social-media{
+	margin-top:-30px;
+}
